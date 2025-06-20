@@ -20,7 +20,6 @@ entry.pack(pady=10)
 convert_button = tk.Button(root, text="Конвертировать", command=convert)
 convert_button.pack(pady=5)
 
-# Метка для результата
 result_label = tk.Label(root, text="Введите метры")
 result_label.pack(pady=10)
 
